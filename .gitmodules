@@ -1,0 +1,3 @@
+[submodule "Ch_03_Introduction_to_DirectX_Raytracing/IntroToDXR"]
+	path = Ch_03_Introduction_to_DirectX_Raytracing/IntroToDXR
+	url = git@github.com:acmarrs/IntroToDXR.git
